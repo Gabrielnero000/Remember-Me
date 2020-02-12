@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152462499938",
+    "firebase_url": "https://rememberme-67b80.firebaseio.com",
+    "project_id": "rememberme-67b80",
+    "storage_bucket": "rememberme-67b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152462499938:android:8d603532ebba9868c1b13b",
+        "android_client_info": {
+          "package_name": "com.gabriel.rememberme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152462499938-ukkj6enekoq3e73euss93rdtuv3ca2js.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlSdJ-xlnefzcuEJR15AEvTfS3YxDNUqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152462499938-ukkj6enekoq3e73euss93rdtuv3ca2js.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
